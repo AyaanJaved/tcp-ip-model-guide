@@ -42,8 +42,7 @@ Layer 2 is basically putting all its faith in Layer 1. It trusts that every sing
 If the Physical Layer messes up, maybe because of some electrical interference, the package that Layer 2 receives is junk. Layer 2 doesn't know why, it just knows its foundation crumbled. It has all the intelligence, but it’s completely dependent on Layer 1 to be its physical messenger.
 
 
-<img width="546" height="551" alt="comic_strip" src="https://github.com/user-attachments/assets/8bdf8e59-785c-43ea-bfe9-dcd52a9755e5" />
-
+<img width="546" height="551" alt="comic_strip" src="https://github.com/user-attachments/assets/19dc118e-f8f1-4b99-b656-95112975613e" />
 
 ---
 
