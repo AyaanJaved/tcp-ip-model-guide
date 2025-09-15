@@ -171,3 +171,6 @@ The Receiver code is designed to perfectly synchronize with the Sender:
 -   **Timing and Synchronization:** Once the start bit is detected, it waits for one and a half bit-periods (`bitRateDelay + bitRateDelay / 2`). This is a clever trick to align the read operation to the _middle_ of the first data bit, making the reading more resilient to timing errors.
     
 -   **Reassemblbles the Character:** It then reads the next 8 bits at the agreed-upon `bitRateDelay` interval, using `bitSet()` to build the character byte. Finally, it prints the received character to its own Serial Monitor.
+
+<img width="1912" height="951" alt="Screenshot 2025-09-15 235836" src="https://github.com/user-attachments/assets/d905c6b5-9847-4dcf-92f1-d21559162437" />
+
