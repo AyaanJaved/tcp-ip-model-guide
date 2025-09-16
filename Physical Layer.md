@@ -174,3 +174,6 @@ The Receiver code is designed to perfectly synchronize with the Sender:
 
 <img width="1912" height="951" alt="Screenshot 2025-09-15 235836" src="https://github.com/user-attachments/assets/d905c6b5-9847-4dcf-92f1-d21559162437" />
 
+<img width="1467" height="547" alt="image" src="https://github.com/user-attachments/assets/d354313c-9241-4df2-90e1-22565bac88e9" />
+
+
